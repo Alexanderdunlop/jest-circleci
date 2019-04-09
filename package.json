@@ -1,0 +1,20 @@
+{
+  "name": "jest-circleci",
+  "version": "1.0.0",
+  "description": "Unit testing and continuous integration",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "circleci"
+  ],
+  "repository": "https://github.com/Alexanderdunlop/jest-circleci.git",
+  "author": "Alexanderdunlop <alex.dunlop@orbba.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
